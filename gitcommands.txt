@@ -1,0 +1,15 @@
+
+1 - git status
+= you will get the status of the file
+
+2 - git add <filename> | git add .
+= it will select the file which we need to add in github - I store in one box
+
+3 - git commit -m "message"
+= it will put the name of the box - It will give the label of that box
+
+4 - git pull origin main
+= take the latest code from our branch
+
+5 - git push
+= it push the code in branch
